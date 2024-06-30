@@ -1,0 +1,2 @@
+# shizhong
+blog for shizhong
