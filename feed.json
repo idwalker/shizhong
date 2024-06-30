@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "诗情画意中",
+    "description": "",
+    "home_page_url": "https://shizhong.me",
+    "feed_url": "https://shizhong.me/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "诗中"
+    },
+    "items": [
+        {
+            "id": "https://shizhong.me/jie-shao-zi-ji.html",
+            "url": "https://shizhong.me/jie-shao-zi-ji.html",
+            "title": "介绍自己",
+            "summary": "复盘自己，然后找到出路",
+            "content_html": "<p>复盘自己，然后找到出路</p>",
+            "author": {
+                "name": "诗中"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-08T21:51:04+08:00",
+            "date_modified": "2024-06-08T21:51:04+08:00"
+        }
+    ]
+}

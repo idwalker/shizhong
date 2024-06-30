@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>诗情画意中</title>
+    <link href="https://shizhong.me/feed.xml" rel="self" />
+    <link href="https://shizhong.me" />
+    <updated>2024-06-08T21:51:04+08:00</updated>
+    <author>
+        <name>诗中</name>
+    </author>
+    <id>https://shizhong.me</id>
+
+    <entry>
+        <title>介绍自己</title>
+        <author>
+            <name>诗中</name>
+        </author>
+        <link href="https://shizhong.me/jie-shao-zi-ji.html"/>
+        <id>https://shizhong.me/jie-shao-zi-ji.html</id>
+
+        <updated>2024-06-08T21:51:04+08:00</updated>
+            <summary>
+                <![CDATA[
+                    复盘自己，然后找到出路
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>复盘自己，然后找到出路</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
